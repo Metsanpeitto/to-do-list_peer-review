@@ -28,7 +28,8 @@ HTML & CSS best practices.
 Finish your review with a nice summary.
 Compare your review with the issue created by the project's author in the Do I follow JavaScript best practices? exercise.
 There is no need to add anything to your review at this point. It is just to check if you both noticed the same issues.
-Check the review you received from your partner! You will make improvements to your code based on your partner's review in the next exercise.
+Check the review you received from your partner! 
+You will make improvements to your code based on your partner's review in the next exercise.
 
 
 =======
