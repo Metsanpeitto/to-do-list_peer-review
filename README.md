@@ -21,7 +21,8 @@ Share the pull request link with your partner.
 Instructions:
 Once you get a pull request link from your partner, go ahead and review it:
 Reminder: How to give a code review.
-Check the quality of the code (you can use previous lessons as a guide). Remember to check for the following:
+Check the quality of the code (you can use previous lessons as a guide). 
+Remember to check for the following:
 JavaScript best practices.
 DRY, KISS, and YAGNI rules.
 HTML & CSS best practices.
